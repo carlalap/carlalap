@@ -34,7 +34,7 @@
 <hr>
 
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/carlalap/carlalap/blob/output/github-contribution-grid-snake.svg)
 
 
 
