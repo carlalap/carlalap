@@ -1,11 +1,13 @@
 
-### Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=carlalap alt=carlalap/> </p>
+
+<!-- STATS -->
 
 <a href="https://github.com/carlalap/github-readme-stats">
 <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=carlalap&theme=chartreuse-dark&show_icons=true" />
 </a>
-
 <a href="https://github.com/carlalap/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlalap&&theme=chartreuse-dark&layout=compact&langs_count=8&card_width=320" />
 </a>
@@ -31,6 +33,8 @@
   <br><br>
 <hr>
 
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
 
 
 
