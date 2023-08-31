@@ -1,10 +1,12 @@
 
-<h1 align="center"> Hi there 👋 </h1>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=carlalap&color=orange alt=carlalap/> </p>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=carlalap alt=carlalap/> </p>
+<h3 align="left">Hi there, I am Carlos Alarcon, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> and I am a passionate software engineering student on a journey to master the art of creating digital magic at Holberton School, Tulsa. 💻🚀 </h3>
 
 <!-- STATS -->
 
+# 📊 GitHub Stats:
 <a href="https://github.com/carlalap/github-readme-stats">
 <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=carlalap&theme=chartreuse-dark&show_icons=true" />
 </a>
@@ -12,8 +14,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlalap&&theme=chartreuse-dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-
-## Tech Skills 
+# 💻 Tech Stack:
 
 <img align="left" src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 <img align="left" src="https://img.shields.io/badge/-HTML-E49C55?style=for-the-badge&logo=html5&logoColor=E49C55&labelColor=282828">
@@ -32,9 +33,4 @@
 <img align="left" src="https://img.shields.io/badge/-vscode-518CB8?style=for-the-badge&logo=visual%20studio%20code&logoColor=518CB8&labelColor=282828">
   <br><br>
 <hr>
-
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/carlalap/carlalap/blob/output/github-contribution-grid-snake.svg)
-
-
 
