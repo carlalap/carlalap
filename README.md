@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=carlalap&color=orange alt=carlalap/> </p>
 
-<h3 align="left">Hi there, I am Carlos Alarcon, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> and I am a software engineering student on a journey to master the art of creating digital magic at Atlas School, Tulsa. OK. 💻🚀 </h3>
+<h3 align="left">Hi there, I am Carlos Alarcon, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> and I am a software engineer on a journey to master the art of creating digital magic. I am continuously working to improve and expand my skills as I pursue new challenges and opportunities in the world of software development. 💻🚀 </h3>
 
 <!-- STATS -->
 
